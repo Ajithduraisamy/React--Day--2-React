@@ -1,0 +1,31 @@
+.container{
+margin-top: 30px;
+margin-left: 125px;
+}
+
+.col-md-4{
+  width: 300px;
+  background-color: #535bf2;
+  padding-top: 35px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.card{
+  padding: 10px;
+}
+.card-body{
+  text-align: left;
+}
+.card-title{
+  font-size: small;
+  color: grey;
+}
+.btn{
+  font-size: 10px;
+  width: 200px;
+  border-radius: 25px;
+}
+.text-muted{
+  opacity: .5;
+}
